@@ -1,4 +1,4 @@
-# Vòng 1
+# Vòng 1 - Mệnh lệnh xuất kích
 ## Mô tả bài toán
 
 Ở vòng này, đề bài cho biết flag đã được mã hóa thành một số nguyên bí mật x. Em được cung cấp ba giá trị p, g, h và quan hệ:
@@ -52,3 +52,5 @@ print(f"FLAG: {flag_bytes.decode(errors='ignore')}")
 
 Sau khi chạy file Python, chương trình trả về:
 ![alt text](image.png)
+
+Vì vậy, ta có Flag: `FLAG{HQ604}`

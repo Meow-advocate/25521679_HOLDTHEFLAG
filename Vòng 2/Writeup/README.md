@@ -1,4 +1,4 @@
-# Vòng 2
+# Vòng 2 - Tọa độ điểm mù
 ## Mô tả bài toán
 
 Ở vòng này, đề bài cho biết hình ảnh sau:
@@ -17,6 +17,4 @@ Qua đó, em thấy được tên của 3 bãi đá san hô thuộc quần đả
 Vì vậy, em đã thực hiện tìm FLAG bằng cách lần lượt sắp xếp tên của 3 bãi đá theo các thứ tự khác nhau.
 
 ## Kết quả 
-```
-FLAG: FLAG{GAC_MA_CO_LIN_LEN_DAO}
-```
+Ta có được Flag: ```FLAG: FLAG{GAC_MA_CO_LIN_LEN_DAO}```
