@@ -18,5 +18,5 @@ Vì vậy, em đã thực hiện tìm FLAG bằng cách lần lượt sắp xế
 
 ## Kết quả 
 ```
-FLAG: FLAG{GACMA_COLIN_LENDAO}
+FLAG: FLAG{GAC_MA_CO_LIN_LEN_DAO}
 ```
